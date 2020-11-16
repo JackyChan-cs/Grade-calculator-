@@ -1,0 +1,40 @@
+Please enter the Test grades.
+Enter Na to skip entry.
+Or enter Finish to skip the rest
+
+Please Enter your midterm 1 grade
+100
+Please Enter your midterm 2 grade
+80
+Please Enter your Final grade
+na
+Please enter the HomeWork grades
+Enter Na to skip.
+Or enter Finish to move on
+
+Please enter grade for Practice Problem 1: 
+80
+Please enter grade for Practice Problem 2: 
+80
+Please enter grade for Practice Problem 3: 
+80
+Please enter grade for Practice Problem 4: 
+finish
+Please enter the Lab grades
+Enter Na to skip.
+Or enter Finish to move on
+
+Please enter grade for Lab 1: 
+80
+Please enter grade for Lab 2: 
+80
+Please enter grade for Lab 3: 
+80
+Please enter grade for Lab 4: 
+finish
+Your Current Grade is :83
+What letter Grade do you seek? 
+a
+You will need to score 100% on at least 0.23076923 tests to get an A
+You will need to score 100% on at least 0.6 homeworks to get an A
+You will need to score 100% on at least 1.5 labs to get an A
